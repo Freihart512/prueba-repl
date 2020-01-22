@@ -20,7 +20,7 @@ The first room in which Bender finds himself has the number  0.
 
 ## Example
 
-
+![image](https://user-images.githubusercontent.com/13740498/72924755-15f2d780-3d17-11ea-9bad-2448675269a2.png)
 
 ## Game Input
 
