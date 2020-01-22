@@ -22,7 +22,6 @@ The first room in which Bender finds himself has the number  0.
 
 
 
-
 ## Game Input
 
 Input
